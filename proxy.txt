@@ -1,0 +1,9 @@
+# Input your proxy details below (one per line, first line will be used):
+# Format:
+# - http://username:password@ip:port
+# - http://ip:port
+# - socks5://username:password@ip:port
+# - socks5://ip:port
+#
+# Leave empty or comment with '#' to run without proxy.
+
